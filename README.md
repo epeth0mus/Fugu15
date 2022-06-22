@@ -49,9 +49,9 @@ Fugu consists of the following components:
 All code in this repository, except for third party code (see 3rdParty.txt), is released under the GPL v3.  
 
 # iOS 15 Support
-This is modified to support rootless iOS 15 - iOS 15.5 Jailbreak
+This is modified to support rootless iOS 15 - iOS 15.6 Jailbreak
 
-* Fugu15 - [iOS 15 Jailbreak](https://taig9.com/jailbreak/ios-15/) or check [iOS 15.5 Jailbreaking Info](https://taig9.com/jailbreak/ios-15-5/)  
+* Fugu15 - [iOS 15 Jailbreak](https://taig9.com/jailbreak/ios-15/) or check [iOS 15.6 Jailbreaking Info](https://taig9.com/jailbreak/ios-15-6/)  
 
 
 Copyright (C) 2019/2020 Linus Henze  
